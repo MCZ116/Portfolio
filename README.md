@@ -15,6 +15,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Java on testing automatization level
 * Selenium WebDriver
 * Frameworks Testng and JUnit
+* Page Object Pattern
 * SQL
 * DevTools
 * Web and App testing
