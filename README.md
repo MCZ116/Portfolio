@@ -8,7 +8,6 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Selenium IDE - Open source record and playback test automation for the web
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 * xPath Finder - xPath finding tool
-* Xmind, Mind Meister - Mind mapping softwares
 * Github
 * IntelliJ
 
