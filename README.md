@@ -13,46 +13,49 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * IntelliJ
 
 # Tech Skills
-*Java on testing automatization level
-*Selenium WebDriver
-*SQL
-*DevTools
-*Web and App testing
-*Creating test cases
-*Reporting bugs
-*Finding uniqe CSS Selectors and xPaths
-*Creating diagrams and decision tables
+* Java on testing automatization level
+* Selenium WebDriver
+* SQL
+* DevTools
+* Web and App testing
+* Creating test cases
+* Reporting bugs
+* Finding uniqe CSS Selectors and xPaths
+* Creating diagrams and decision tables
 
 # Books
-*R.Smilgin - Zawód tester
+* R.Smilgin - Zawód tester
 # Groups on Facebook
-*Tester oprogramowania - wsparcie na starcie
-*Testowanie oprogramowania
-*Gildia Testerów
+* Tester oprogramowania - wsparcie na starcie
+* Testowanie oprogramowania
+* Gildia Testerów
 
 # Recommended blogs
-*testerzy.pl
-*testuj.pl - Test, Bugs & Rock'n'Roll
-*remigiuszbednarczyk.pl
-*toniebug.pl
+* testerzy.pl
+* testuj.pl - Test, Bugs & Rock'n'Roll
+* remigiuszbednarczyk.pl
+* toniebug.pl
 
 # Webinars
-*Szkoła testera - podstawy testowania
+* Szkoła testera - podstawy testowania
 
 # My test case examples
-*Test cases for site 
+* Test cases for site 
 
 # My bug reports
-*Bugs reported for 
+* Bugs reported for 
 
 # My examples of diagrams and decision tables
-*Diagrams and decision tables for stoper, railway lights and registration
+* Diagrams and decision tables for stoper, railway lights and registration
 
 # My examples of CSS Selectors and xPaths
-*Finding uniqe CSS Selectors and xPaths on site 
+* Finding uniqe CSS Selectors and xPaths on site 
+
+# My examples from crowdtesting sites
+* rok.com report example
 
 # My projects
-*Report
-*Test cases
-*Test cases - regression testing
-*Automatization of example page
+* Report
+* Test cases
+* Test cases - regression testing
+* Automatization of example page
