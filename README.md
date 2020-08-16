@@ -41,7 +41,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Szkoła testera - podstawy testowania
 
 # My test case examples
-* Test cases for site 
+* [Test cases for log in site roku.com](https://docs.google.com/spreadsheets/d/1TA6zZ2UIQWtVZ6tMdC--W_DEUDiguQT8fNqS0gVZbdU/edit?usp=sharing)
 
 # My bug reports
 * Bugs reported for 
@@ -52,11 +52,12 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 # My examples of CSS Selectors and xPaths
 * Finding uniqe CSS Selectors and xPaths on site 
 
-# My examples from crowdtesting sites
-* rok.com report example
+# Crowdtesting sites which I used to training test skills
+* utest.com
+* digivante.com
 
 # My projects
 * Report
 * Test cases
 * Test cases - regression testing
-* Automatization of example page
+* [Automatization code examples](https://github.com/MCZ116/Portfolio.git) 
