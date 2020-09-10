@@ -3,7 +3,7 @@
 My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland . I'm interested in testing since 2019 year. My goal is to develop testing knowlage and technical skills. On this site I would like to share my all gained experience from personal studies and researches.
 
 # Tools
-* Streamlabs - Screen capture software
+* OBS - Screen capture software
 * Jing - Screen capture software
 * Selenium IDE - Open source record and playback test automation for the web
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
@@ -22,7 +22,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Creating test cases
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
-* Creating diagrams and decision tables
+* Creating decision tables
 
 # Books
 * R.Smilgin - Zawód tester
