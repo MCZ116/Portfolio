@@ -40,12 +40,6 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 # Webinars
 * Szkoła testera - podstawy testowania
 
-# My test case examples
-* [Test cases for log in site roku.com](https://docs.google.com/spreadsheets/d/1TA6zZ2UIQWtVZ6tMdC--W_DEUDiguQT8fNqS0gVZbdU/edit?usp=sharing)
-
-# My bug reports
-* Bugs reported for 
-
 # My examples of diagrams and decision tables
 * Diagrams and decision tables for stoper, railway lights and registration
 
@@ -58,6 +52,5 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 
 # My projects
 * Report
-* Test cases
-* Test cases - regression testing
+* [Test cases for log in site roku.com](https://docs.google.com/spreadsheets/d/1TA6zZ2UIQWtVZ6tMdC--W_DEUDiguQT8fNqS0gVZbdU/edit?usp=sharing)
 * [Automatization code examples](https://github.com/MCZ116/Portfolio.git) 
