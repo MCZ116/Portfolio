@@ -40,8 +40,8 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 # Webinars
 * Szkoła testera - podstawy testowania
 
-# My examples of diagrams and decision tables
-* Diagrams and decision tables for stoper, railway lights and registration
+# My examples of decision table
+* [Decision table for successful purchase](https://docs.google.com/spreadsheets/d/1o6niXUPGlrB4Cc-KE6DrwDXZZBSnr3XHpFqLerXcj2U/edit?usp=sharing)
 
 # My examples of CSS Selectors and xPaths
 * Finding uniqe CSS Selectors and xPaths on site 
