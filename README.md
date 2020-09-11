@@ -43,8 +43,8 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 # My examples of decision table
 * [Decision table for successful purchase](https://docs.google.com/spreadsheets/d/1o6niXUPGlrB4Cc-KE6DrwDXZZBSnr3XHpFqLerXcj2U/edit?usp=sharing)
 
-# My examples of CSS Selectors and xPaths
-* Finding uniqe CSS Selectors and xPaths on site 
+# My examples of CSS Selectors and xPaths finding and use of lighthouse
+* [Finding CSS Selectors and xPaths on site with lighthouse report](https://docs.google.com/document/d/1mRRmg0-wI9Fmo3th6GS04w8YqbOuA_6nbTqIrxHwqu4/edit?usp=sharing) 
 
 # Crowdtesting sites which I used to training test skills
 * utest.com
