@@ -17,6 +17,7 @@ public class LoginPage {
     @FindBy(name="SubmitLogin")
     WebElement loginButton;
 
+
     //konstruktor
     public LoginPage(WebDriver driver){
         this.driver = driver;

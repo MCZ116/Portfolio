@@ -1,7 +1,6 @@
 package test;
 
-import Pages.LoginPage;
-import Pages.WelcomePage;
+import Pages.SearchPage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
@@ -13,11 +12,10 @@ import org.testng.annotations.Test;
 
 import java.util.concurrent.TimeUnit;
 
-public class Test01 {
+public class Test02 {
 
    WebDriver driver;
-   LoginPage loginPage;
-   WelcomePage welcomePage;
+   SearchPage searchPage;
 
     @BeforeTest
     public void setup() {
@@ -34,23 +32,17 @@ public class Test01 {
     }
 
     @Test(priority = 0)
-    public void correctLogin(){
+    public void incorrectSearch(){
 
-        loginPage = new LoginPage(driver);
-
-        loginPage.loginToSite("MCZyoutest2020@gmail.com","Zaq123409");
+        searchPage = new SearchPage(driver);
 
         WebDriverWait waitName = new WebDriverWait(driver, 5000);
-        waitName.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div/div[2]/div/div[3]/div/div/div[1]/ul/li[4]/a/span")));
-        welcomePage = new WelcomePage(driver);
+        waitName.until(ExpectedConditions.visibilityOfElementLocated(By.id("search_query_top")));
 
-        String URL = driver.getCurrentUrl();
-        Assert.assertEquals(URL, "http://automationpractice.com/index.php?controller=my-account" );
-        Assert.assertEquals(welcomePage.getWelcomeTxt().toLowerCase(), "my personal information");
-        Assert.assertTrue(welcomePage.getLoggedUser().toLowerCase().contains("joey last"));
-        welcomePage.logout();
-        boolean signInButtonDisplay = driver.findElement(By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a")).isDisplayed();
-        System.out.println("Element displayed is :"+signInButtonDisplay);
+        searchPage.searchText("Jacket");
+        searchPage.pressSearchButton();
+        Assert.assertTrue(searchPage.errorSearchText().contains("No results were found for your search"));
+
         CloseBrowser();
     }
 
