@@ -54,3 +54,6 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * [Short report example of roku site](https://docs.google.com/document/d/12sjXiOIH1IxPFhaeWkYz6RMJR10jh_5liq8ho3lJeY4/edit?usp=sharing)
 * [Test cases for log in site roku.com](https://docs.google.com/spreadsheets/d/1TA6zZ2UIQWtVZ6tMdC--W_DEUDiguQT8fNqS0gVZbdU/edit?usp=sharing)
 * [Automatization code examples](https://github.com/MCZ116/Portfolio.git) 
+* [Test suite and cases livespace](https://docs.google.com/spreadsheets/d/1GSN3N-R-ElHAce8Wqs35Rr23-cqpIE9mL7z0IgsXGyo/edit?usp=sharing)
+* [Use cases for livespace](https://docs.google.com/document/d/1VCD82oEVghr-hWA2EVGaMbpVSeINJQtE7nwuVMubOg0/edit?usp=sharing)
+* [Report for livespace](https://docs.google.com/document/d/1JDrd8DTlaoykWjGiItmkWifk-o0Zs4mBqg5rblfD4fI/edit?usp=sharing)
