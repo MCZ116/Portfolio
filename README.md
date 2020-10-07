@@ -37,6 +37,9 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * remigiuszbednarczyk.pl
 * toniebug.pl
 
+# Sites for checking ISTQB knowledge
+* getistqb.com
+
 # Webinars
 * Szkoła testera - podstawy testowania
 
