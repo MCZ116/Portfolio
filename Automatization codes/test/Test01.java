@@ -1,7 +1,13 @@
 package test;
 
-import Pages.*;
+import Pages.LoginPage;
+import Pages.MainPageSections;
+import Pages.SearchPage;
+import Pages.WelcomePage;
+import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.By;
+import org.openqa.selenium.OutputType;
+import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -10,6 +16,7 @@ import org.testng.Assert;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
+import java.io.File;
 import java.util.concurrent.TimeUnit;
 
 public class Test01 {
@@ -83,11 +90,22 @@ public class Test01 {
     }
 
     @Test(priority = 3)
-    public void CorrectLogout(){
+    public void CorrectLogout() throws Exception {
         welcomePage.logout();
         boolean signInButtonDisplay = driver.findElement(By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a")).isDisplayed();
         System.out.println("Element displayed is :"+signInButtonDisplay);
+        takeScshot(driver, "c://Users//MCZ116//Desktop//Dokumenty//MCZ//Inne//javascreenshots//test.png") ;
         CloseBrowser();
+    }
+
+    public static void takeScshot (WebDriver webdriver,String fileWithPath) throws Exception
+    {
+        TakesScreenshot scrShot =((TakesScreenshot)webdriver);
+        File SrcFile=scrShot.getScreenshotAs(OutputType.FILE);
+        File DestFile=new File(fileWithPath);
+        FileUtils.copyFile(SrcFile, DestFile);
+
+
     }
 
 
