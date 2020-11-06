@@ -41,7 +41,8 @@ public class LoginOutTest {
         loginPage = new LoginPage(driver);
         loginPage.loginToSite("MCZyoutest2020@gmail.com","Zaq123409");
         WebDriverWait waitName = new WebDriverWait(driver, 5000);
-        waitName.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("/html/body/div/div[1]/header/div[2]/div/div/nav/div[2]/a")));
+        waitName.until(ExpectedConditions.visibilityOfElementLocated(By.cssSelector(".logout")));
+        welcomePage = new WelcomePage(driver);
         welcomePage.logout();
         boolean signInButtonDisplay = driver.findElement(By.xpath("//*[@id=\"header\"]/div[2]/div/div/nav/div[1]/a")).isDisplayed();
         System.out.println("Element displayed is :"+signInButtonDisplay);
