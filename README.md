@@ -24,6 +24,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Finding uniqe CSS Selectors and xPaths
 * Creating decision tables
 * Basic HTML
+* Apache Commons IO for screenshots in automatization
 
 # Books
 * R.Smilgin - Zawód tester
