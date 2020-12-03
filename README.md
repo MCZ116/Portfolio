@@ -10,9 +10,11 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * xPath Finder - xPath finding tool
 * Github
 * IntelliJ
+* Unity2D
 
 # Tech Skills
-* Java on testing automatization level
+* Java testing automatization level
+* C# basic for Unity
 * Selenium WebDriver
 * Frameworks Testng and JUnit
 * Page Object Pattern
