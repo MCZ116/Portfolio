@@ -18,6 +18,12 @@ public class MainPageSections {
     @FindBy(xpath = "/html/body/div/div[1]/header/div[3]/div/div/div[6]/ul/li[2]/a")
     WebElement dressesButton;
 
+    @FindBy(xpath="/html/body/div/div[1]/header/div[3]/div/div/div[4]/div[1]/div[2]/div[3]/span")
+    WebElement totalPrice;
+
+    @FindBy(xpath="(//H2)[1]")
+    WebElement successAdd;
+
     public MainPageSections(WebDriver driver){
         this.driver = driver;
         PageFactory.initElements(driver, this);
@@ -30,6 +36,8 @@ public class MainPageSections {
     public String womenButtonText() { return womenButton.getText();}
     public String tshirtsButtonText() { return tshirtButton.getText();}
     public String dressesButtonText() { return dressesButton.getText();}
+    public String totalPriceText() { return totalPrice.getText();}
+    public String successAddText() { return successAdd.getText();}
 
 
 
