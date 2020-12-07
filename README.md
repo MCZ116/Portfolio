@@ -65,4 +65,4 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * [Test suite and cases livespace](https://docs.google.com/spreadsheets/d/1GSN3N-R-ElHAce8Wqs35Rr23-cqpIE9mL7z0IgsXGyo/edit?usp=sharing)
 * [Use cases for livespace](https://docs.google.com/document/d/1VCD82oEVghr-hWA2EVGaMbpVSeINJQtE7nwuVMubOg0/edit?usp=sharing)
 * [Report for livespace](https://docs.google.com/document/d/1JDrd8DTlaoykWjGiItmkWifk-o0Zs4mBqg5rblfD4fI/edit?usp=sharing)
-* Creating own Idle game on Unity engine
+* Creating my own Idle game on Unity engine
