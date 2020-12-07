@@ -11,10 +11,11 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Github
 * IntelliJ
 * Unity2D
+* Git
 
 # Tech Skills
 * Java testing automatization level
-* C# basic for Unity
+* C# basic for Unity ( creating my own idle game for android )
 * Selenium WebDriver
 * Frameworks Testng and JUnit
 * Page Object Pattern
