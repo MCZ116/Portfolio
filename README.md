@@ -17,17 +17,17 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 # Tech Skills
 * Java testing automatization level
 * C# basic for Unity ( creating my own idle game for android )
-* Selenium WebDriver
-* Frameworks Testng and JUnit
+* Selenium WebDriver in java
+* Frameworks Testng and JUnit in java
 * Page Object Pattern
-* SQL
-* DevTools
+* SQL basics
+* DevTools for lighthouse and xpath searching
 * Web and App testing
 * Creating test cases
 * Reporting bugs
 * Finding uniqe CSS Selectors and xPaths
 * Creating decision tables
-* Basic HTML
+* HTML basics
 * Apache Commons IO for screenshots in automatization
 
 # Books
