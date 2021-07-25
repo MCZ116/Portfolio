@@ -12,6 +12,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * IntelliJ
 * Unity2D
 * Git
+* PopSQL
 
 # Tech Skills
 * Java testing automatization level
