@@ -5,6 +5,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 # Tools
 * OBS - Screen capture software
 * Jing - Screen capture software
+* Gyazo - Screenshots/Gifs
 * Selenium IDE - Open source record and playback test automation for the web
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
 * xPath Finder - xPath finding tool
@@ -13,6 +14,8 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Unity2D
 * Git
 * PopSQL
+* Trello
+* Jira basics for reporting
 
 # Tech Skills
 * Java testing automatization level
