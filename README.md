@@ -1,6 +1,6 @@
 # About me
 
-My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland . I'm interested in testing since 2019 year. My goal is to develop testing knowlage and technical skills. At the moment I m working as a IT teacher in technical schools. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland . I'm interested in testing since 2019 year. My goal is to develop testing knowledge and technical skills, I also work as a IT teacher in technical schools. On this site I would like to share my all gained experience from personal studies and researches.
 
 # Tools
 * OBS - Screen capture software
