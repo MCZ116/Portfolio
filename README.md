@@ -1,6 +1,6 @@
 # About me
 
-My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland . I'm testing websites, mobile apps and games, mostly non-commercial but also single commercial projects. I'm interested in software testing since 2019 year. My goal is to develop testing knowledge and technical skills, I also work as a IT teacher in technical schools. On this site I would like to share my all gained experience from personal studies and researches.
+My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland . I'm testing websites, mobile apps and games, mostly non-commercial but also single commercial projects. I'm interested in software testing since 2019 year. My goal is to develop testing knowledge and technical skills, I also work as a IT teacher in technical school and create my own [mobile game](https://github.com/MCZ116/UnityAlienIdleGame.git). On this site I would like to share my all gained experience from personal studies and researches.
 
 # Tech Skills
 * Java testing automatization level
