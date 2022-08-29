@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title> CalculatorBasics </title>
+	<meta charset="UTF-8">
+    <link rel="Stylesheet" href="styles.css" type="text/css">
+	
+</head>
+<body>
+<main>
+<h1> Calculator </h1>
+
+<section class="resultWindow">
+<p id="result">0</p>
+</section>
+
+<section class="buttonsSquare">
+	<div>
+		<button class="btn3" id="buttonID7" value="7" onclick="insertvalue('7')">7</button>
+		<button class="btn3" id="buttonID8" value="8" onclick="insertvalue('8')">8</button>
+		<button class="btn3" id="buttonID9" value="9" onclick="insertvalue('9')">9</button>
+		</div>
+	<div>
+		<button class="btn2" id="buttonID4" value="4" onclick="insertvalue('4')">4</button>
+		<button class="btn2" id="buttonID5" value="5" onclick="insertvalue('5')">5</button>
+		<button class="btn2" id="buttonID6" value="6" onclick="insertvalue('6')">6</button>
+		</div>
+	<div>
+		<button class="btn1" id="buttonID1" value="1" onclick="insertvalue('1')">1</button>
+		<button class="btn1" id="buttonID2" value="2" onclick="insertvalue('2')">2</button>
+		<button class="btn1" id="buttonID3" value="3" onclick="insertvalue('3')">3</button>
+		</div>
+	<div>
+		<button class="btn4" id="buttonID0" value="0" onclick="insertvalue('0')">0</button>
+		<button class="btn4" id="buttonID10" value="%" onclick="percent()">%</button>
+		<button class="btn4" id="buttonIDc" onclick="clearresults()">C</button>
+		</div>
+</section>
+
+<section class="panel">
+	<div>
+		<button class="btn5" id="buttonIDdivide" value="/" onclick="insertvalue('/')">/</button>
+		<button class="btn5" id="buttonIDmultiply" value="*" onclick="insertvalue('*')">x</button>
+		<button class="btn5" id="buttonIDdot" value="." onclick="insertvalue('.')">.</button>
+		</div>
+		<div>
+	<button class="btncalc" id="buttonID11" value="+" onclick="insertvalue('+')">+</button>
+	<button class="btncalc" id="buttonID12" value="-"onclick="insertvalue('-')">-</button>
+	<button class="btncalc" id="buttonIDe" onclick="calculate()">=</button>
+</div>
+<div>
+	<button class="btncalc" id="buttonID11" value="^"onclick="insertvalue('**')">^</button>
+	<button class="btncalc" id="buttonID12" value="("onclick="insertvalue('(')">(</button>
+	<button class="btncalc" id="buttonID12" value=")"onclick="insertvalue(')')">)</button>
+</div>
+</section>
+
+</main>
+<script src="script.js"></script>
+</body>
+</html>

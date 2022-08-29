@@ -1,0 +1,56 @@
+body {
+	height: 100vh;
+	background: linear-gradient(
+	0deg,
+	rgba(72, 206, 222, 1) 0%,
+	rgba(199, 92, 180, 1) 100%
+	);
+	text-align: center;
+	overflow: hidden;
+}
+
+p {
+	font-family: eufm;
+	font-size: 2em;
+	position: relative;
+	bottom: 25px;
+	top: -5px;
+}
+
+.resultWindow {
+	height: 80px;
+	width: 250px;
+	border: 3px solid black;
+	position: relative;
+    text-align: center;
+	margin: 0 auto;
+	background: linear-gradient(
+		0deg,
+		rgb(0, 110, 37) 0%,
+		rgb(0, 255, 0) 100%
+		);
+}
+
+.buttonsSquare,  .panel {
+	height: auto;
+	width: 250px;
+	border: 3px solid black;
+	position: relative;
+    text-align: center;
+	margin: 0 auto;
+	background: linear-gradient(
+	0deg,
+	rgb(148, 148, 148) 0%,
+	rgb(255, 255, 255) 100%
+	);
+}
+
+.btn1, .btn2, .btn3, .btn4, .btn5, .btncalc {
+	padding: 10px 24px;
+	font-size: 2em;
+	border-radius: 4px;
+}
+
+.button:active {
+	box-shadow: inset;
+}
