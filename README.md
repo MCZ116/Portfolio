@@ -1,22 +1,22 @@
 # About me
 
-My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland . I'm testing websites, mobile apps and games, mostly non-commercial but also single commercial projects. I'm interested in software testing since 2019 year. My goal is to develop testing knowledge and technical skills, I also work as a IT teacher in technical school and create my own [mobile game](https://github.com/MCZ116/UnityAlienIdleGame.git). On this site I would like to share my all gained experience from personal studies and researches.
+My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland with possibility to teach IT. I'm testing websites, mobile apps and games. I'm full time Software Tester, my dutes are including manually testing, automation using Java language with Selenium Webdriver, testng, maven also creating test plans, scenarios, regression testing, integration testing etc. My code examples are included in files under Automation, I love to learn new technologies, list of skills and tools is included below. I'm interested in software testing since 2019 year, my goal is to improve my automation skills, learn more tools and technologies. In free time I'm creating my first [mobile game](https://github.com/MCZ116/UnityAlienIdleGame.git). If you want to contact me about part-time/single project please contant me using LinkedIn.
 
 # Tech Skills
-* Java testing automatization level
+* Java websites automation
 * JavaScript basics
 * HTML, CSS basics
-* C# basic for Unity ( creating my own idle game for android )
-* Selenium WebDriver in java
+* C# creating game in Unity
+* Selenium WebDriver used with Java
 * Cypress basics
 * Postman - API testing
-* Frameworks Testng and JUnit in java
+* Frameworks Testng and JUnit in Java
 * Page Object Pattern
-* SQL basics
-* DevTools for lighthouse and xpath searching
+* SQL basics (using MySQL workbench)
+* DevTools (checking responses, html, css, js scripts, getting locators, using lighthouse)
 * Web and App testing
-* Creating test cases
-* Reporting bugs
+* Creating test cases, test plans, test scenarios
+* Reporting bugs, using Jira, Trello, Azure DevOps
 * Finding uniqe CSS Selectors and xPaths
 * Creating decision tables
 * Apache Commons IO for screenshots in automatization
@@ -28,8 +28,10 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * IntelliJ
 * Git
 * GitHub
+* MySQL Workbench
 * Trello
 * Jira basics for reporting
+* Azure
 * OBS - Screen capture software
 * Jing - Screen capture software
 * Gyazo - Screenshots/Gifs
