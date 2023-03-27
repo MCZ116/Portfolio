@@ -73,7 +73,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * [Reports examples](https://docs.google.com/document/d/1S1C9sqedqBjtNcgMXSPHgXFOLUKICQI9/edit#bookmark=id.hmu4yd8zhr1m)
 * [Test suite and cases livespace](https://docs.google.com/spreadsheets/d/1GSN3N-R-ElHAce8Wqs35Rr23-cqpIE9mL7z0IgsXGyo/edit?usp=sharing)
 * [Use cases for livespace](https://docs.google.com/document/d/1VCD82oEVghr-hWA2EVGaMbpVSeINJQtE7nwuVMubOg0/edit?usp=sharing)
-* [Automatization code examples](https://github.com/MCZ116/Portfolio.git) 
+* [Automatization code examples](https://github.com/MCZ116/Portfolio/tree/master/AutomationInJavaSeleniumWebDriver) 
 * [Report for livespace](https://docs.google.com/document/d/1JDrd8DTlaoykWjGiItmkWifk-o0Zs4mBqg5rblfD4fI/edit?usp=sharing)
 * [SQL samples created by me](https://github.com/MCZ116/Portfolio/blob/master/My_sql_samples.sql)
 * [Creating my own Idle game on Unity engine](https://github.com/MCZ116/UnityAlienIdleGame.git)
