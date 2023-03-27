@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AutomationTest">
+    <listeners>
+        <listener class-name="Base.ScreenShotListener"></listener>
+    </listeners>
+    <test name="Regression" preserve-order="false" parallel="false">
+        <classes>
+            <class name="Tests.LoginPageTest"/>
+			<class name="Tests.CartTest"/>
+			<class name="Tests.LinksValidationTest"/>
+            <class name="Tests.SearchBarTest"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
