@@ -27,15 +27,25 @@ public class LoginPageTest extends BaseTest implements TestsMethodsScheme {
         loginPage.loginToSite(UserData.userName,UserData.userPassword);
     }
 
-    @Test(groups = "Functionality",description = "Login to page and see profile data")
-    public void TC1_correctLoginAndLogOut() {
+    @Test(groups = "Functionality",description = "Login to page with valid data")
+    public void TC1_validDataLoginAndLogOut() {
+        loginPage.loginToSite(UserData.userName,UserData.userPassword);
         Assert.assertEquals(welcomePage.getWelcomeTxt().toLowerCase(), "my personal information");
         Assert.assertTrue(welcomePage.getLoggedUser().toLowerCase().contains("software tester"));
         Assert.assertEquals(driver.getCurrentUrl(),mainPageURL()+"/index.php?controller=my-account");
     }
 
-    @Test(groups = "Functionality",description = "User logout and see sign in page")
-    public void TC2_correctLogout() {
+    @Test(groups = "Functionality",description = "Attempt to login with invalid data")
+    public void TC2_invalidCredentialsLogin() {
+        loginPage.loginToSite("noname@gmail.com","wrongpsswd");
+        Assert.assertTrue(loginPage.getErrorMessage().toLowerCase().contains("there is 1 error"));
+        Assert.assertTrue(loginPage.getAuthenticationError().toLowerCase().contains("software tester"));
+        Assert.assertEquals(driver.getCurrentUrl(),mainPageURL()+"/index.php?controller=authentication");
+    }
+
+    @Test(groups = "Functionality",description = "Logout and redirect to login page")
+    public void TC3_correctLogOut() {
+        loginPage.loginToSite(UserData.userName,UserData.userPassword);
         Assert.assertEquals(welcomePage.signOutButtonText(),"Sign out");
         welcomePage.logout();
         Assert.assertEquals(loginPage.getLoginPageHeader(),"AUTHENTICATION");
