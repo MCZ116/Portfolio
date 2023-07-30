@@ -28,7 +28,7 @@ public class LoginPageTest extends BaseTest implements TestsMethodsScheme {
     }
 
     @Test(groups = "Functionality",description = "Login to page with valid data")
-    public void TC1_validDataLoginAndLogOut() {
+    public void TC1_validCredentialsLogin() {
         loginPage.loginToSite(UserData.userName,UserData.userPassword);
         Assert.assertEquals(welcomePage.getWelcomeTxt().toLowerCase(), "my personal information");
         Assert.assertTrue(welcomePage.getLoggedUser().toLowerCase().contains("software tester"));
@@ -39,7 +39,7 @@ public class LoginPageTest extends BaseTest implements TestsMethodsScheme {
     public void TC2_invalidCredentialsLogin() {
         loginPage.loginToSite("noname@gmail.com","wrongpsswd");
         Assert.assertTrue(loginPage.getErrorMessage().toLowerCase().contains("there is 1 error"));
-        Assert.assertTrue(loginPage.getAuthenticationError().toLowerCase().contains("software tester"));
+        Assert.assertTrue(loginPage.getAuthenticationError().toLowerCase().contains("authentication failed."));
         Assert.assertEquals(driver.getCurrentUrl(),mainPageURL()+"/index.php?controller=authentication");
     }
 
