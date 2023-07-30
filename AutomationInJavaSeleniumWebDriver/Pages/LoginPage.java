@@ -22,6 +22,12 @@ public class LoginPage extends BasePage {
     @FindBy(css = ".page-heading")
     WebElement loginPageHeader;
 
+    @FindBy(css = "#center_column > div.alert.alert-danger > p")
+    WebElement errorMessage;
+
+    @FindBy(css = "#center_column > div.alert.alert-danger > ol > li")
+    WebElement authenticationError;
+
     public LoginPage(WebDriver driver){
         super(driver);
     }
@@ -54,5 +60,8 @@ public class LoginPage extends BasePage {
         this.login();
     }
 
+    public String getErrorMessage(){ return errorMessage.getText(); }
+
+    public String getAuthenticationError(){ return authenticationError.getText(); }
 
 }
