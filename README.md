@@ -3,15 +3,17 @@
 My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland with possibility to teach IT. I'm testing websites, mobile apps and games. I'm full time Software Tester, my dutes are including manually testing, automation using Java language with Selenium Webdriver, testng, maven also creating test plans, scenarios, regression testing, integration testing etc. My code examples are included in files under [Automation](https://github.com/MCZ116/Portfolio/tree/master/AutomationInJavaSeleniumWebDriver), I love to learn new technologies, list of skills and tools is included below. I'm interested in software testing since 2019 year, my goal is to improve my automation skills, learn more tools and technologies. In free time I'm creating my first [mobile game](https://github.com/MCZ116/UnityAlienIdleGame.git). If you want to contact me about part-time/single project please contant me using LinkedIn.
 
 # Tech Skills
-* Java websites automation
+* Java Selenium Webdrives automations
 * JavaScript basics
 * HTML, CSS basics
+* PHPUnit and Panther
+* Cucumber and Gherkin
+* BDD knowledge
 * C# creating game in Unity
-* Selenium WebDriver used with Java
 * Cypress basics
 * Postman - API testing
-* Frameworks Testng and JUnit in Java
-* Page Object Pattern
+* TestNG, JUnit
+* Page Object Pattern or Page Object Model
 * SQL basics (using MySQL workbench)
 * DevTools (checking responses, html, css, js scripts, getting locators, using lighthouse)
 * Web and App testing
@@ -26,6 +28,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Jenkins
 * Maven
 * IntelliJ
+* PHPStorm
 * Git
 * GitHub
 * MySQL Workbench
