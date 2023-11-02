@@ -25,6 +25,7 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 
 # Tools
 * Selenium IDE - Open source record and playback test automation for the web
+* DevTools
 * Jenkins
 * Maven
 * IntelliJ
@@ -39,7 +40,6 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Jing - Screen capture software
 * Gyazo - Screenshots/Gifs
 * Bug Magnet - Exploratory testing assistant for Chrome and Firefox
-* xPath Finder - xPath finding tool
 * Unity2D
 * PopSQL
 
