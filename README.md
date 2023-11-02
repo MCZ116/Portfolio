@@ -13,13 +13,13 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Cypress basics
 * Postman - API testing
 * TestNG, JUnit
-* Page Object Pattern or Page Object Model
+* Page Object Pattern
 * SQL basics (using MySQL workbench)
 * DevTools (checking responses, html, css, js scripts, getting locators, using lighthouse)
 * Web and App testing
 * Creating test cases, test plans, test scenarios
 * Reporting bugs, using Jira, Trello, Azure DevOps
-* Finding uniqe CSS Selectors and xPaths
+* Finding uniqe CSS Selectors
 * Creating decision tables
 * Apache Commons IO for screenshots in automatization
 
