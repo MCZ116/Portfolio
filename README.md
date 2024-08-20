@@ -1,6 +1,6 @@
 # About me
 
-My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland with possibility to teach IT. I'm testing websites, mobile apps and games. I'm full time Software Tester, my dutes are including manually testing, automation using Java language with Selenium Webdriver, testng, maven also creating test plans, scenarios, regression testing, integration testing etc. My code examples are included in files under [Automation](https://github.com/MCZ116/Portfolio/tree/master/AutomationInJavaSeleniumWebDriver), I love to learn new technologies, list of skills and tools is included below. I'm interested in software testing since 2019 year, my goal is to improve my automation skills, learn more tools and technologies. In free time I'm creating my first [mobile game](https://github.com/MCZ116/UnityAlienIdleGame.git). If you want to contact me about part-time/single project please contant me using LinkedIn.
+My name is Mateusz Czerwiński. I'm a master engineer of Technical University in Lublin, Poland with possibility to teach IT. I'm testing websites, mobile apps and games. I'm full time Software Tester, my dutes are including manually testing, automation using in playwright and python. I also know how to create tests in Java using testng and maven. Other duties includes creating test plans, scenarios, regression testing, integration testing, acceptance testing etc. My code examples are included in files under [Automation](https://github.com/MCZ116/Portfolio/tree/master/AutomationInJavaSeleniumWebDriver), I love to learn new technologies, list of skills and tools is included below. I'm interested in software testing since 2019 year, my goal is to improve my automation skills, learn more tools and technologies. I'm programming in free time, there is my first [mobile game](https://github.com/MCZ116/UnityAlienIdleGame.git). Here is my [Task Manager](https://github.com/MCZ116/Task-Manager.git) project with React and Spring Boot it has a bit of functionalities and is including unit tests. If you want to contact me about part-time/single project please contant me using LinkedIn.
 
 # Tech Skills
 * Java Selenium Webdrives automations
@@ -22,6 +22,8 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * Finding uniqe CSS Selectors
 * Creating decision tables
 * Apache Commons IO for screenshots in automatization
+* React TS
+* Spring Boot
 
 # Tools
 * Selenium IDE - Open source record and playback test automation for the web
@@ -44,7 +46,9 @@ My name is Mateusz Czerwiński. I'm a master engineer of Technical University in
 * PopSQL
 
 # My projects
-* [Automatization using Java,Selenium WebDriver,Maven,TestNG](https://github.com/MCZ116/Portfolio/tree/master/AutomationInJavaSeleniumWebDriver) 
+* [Task Manager](https://github.com/MCZ116/Task-Manager.git)
+* [Automatization using Java,Selenium WebDriver,Maven,TestNG](https://github.com/MCZ116/Portfolio/tree/master/AutomationInJavaSeleniumWebDriver)
+* [Mobile Game](https://github.com/MCZ116/UnityAlienIdleGame.git)
 * [Reports examples](https://docs.google.com/document/d/1S1C9sqedqBjtNcgMXSPHgXFOLUKICQI9/edit#bookmark=id.hmu4yd8zhr1m)
 * [Test suite and cases livespace](https://docs.google.com/spreadsheets/d/1GSN3N-R-ElHAce8Wqs35Rr23-cqpIE9mL7z0IgsXGyo/edit?usp=sharing)
 * [Use cases for livespace](https://docs.google.com/document/d/1VCD82oEVghr-hWA2EVGaMbpVSeINJQtE7nwuVMubOg0/edit?usp=sharing)
